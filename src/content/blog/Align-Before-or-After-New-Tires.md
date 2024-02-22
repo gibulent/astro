@@ -12,7 +12,7 @@ description: Alignment Timing 101 Before or After New Tires? Experts Spill the B
 
 There is some debate among experts about whether to do an alignment before or after getting new tires. Some argue that it is best to wait until after the new tires are mounted to ensure that the alignment is 100% accurate, while others argue that it doesn't matter and that you can do it before or after. 
 
-![tire-alignent](/assets/tire-alignent.png)
+![tire-alignent](/assets/1/tire-alignent.png)
 
 Most experts agree that the only effect worn tires have on your alignment is a change to the vehicle’s ride height which, given today’s steering and suspension design, should be negligible. However, if you are experiencing uneven tire wear, you should have an alignment performed before you purchase new tires. If you are unable to do so, you should have an alignment performed as soon as possible after the new tires are mounted to prevent uneven wear on the new tires. Ultimately, it is up to the individual to decide when to get an alignment, but it is generally recommended to have your car or truck aligned every 10,000 miles to help ensure that it stays in proper alignment.
 
@@ -30,7 +30,7 @@ Citations:
 
 ## Toe Adjustment
 It's important to note that toe alignment refers to the angle at which the tires point inward or outward when viewed from above. Installing new tires generally shouldn't affect the toe setting unless there are significant changes in tire size or type.
-![toe-adjustment](/assets/toe-adjustment.png)
+![toe-adjustment](/assets/1/toe-adjustment.png)
 
 It is a good idea to get a wheel alignment after installing new tires[1][4]. An alignment helps ensure that all four tires are correctly angled with each other and the road. If you don’t get an alignment with new tires, you may experience a rough ride and experience uneven tire wear earlier than normal, which can shorten your tires’ lifespan[4]. The general rule of thumb is to get an alignment about every year[4]. However, you should check your owner's manual to know what's best for your vehicle. If you often drive in harsh conditions or on pothole-riddled streets, you may need an alignment more frequently[4]. The alignment procedure usually takes about 30 minutes to an hour to complete[1]. The toe angle is one of the three angles that are adjusted during an alignment, and it affects how much the tire points in or out[1][2].
 

@@ -10,14 +10,14 @@ tags:
 description: Urgent.. Fix Your Front Wheel Squeak Before It Becomes a Costly Problem
 ---
 Possible explanations might include brake-related problems, such as issues with pads and rotors, or perhaps there was some temporary debris causing the noise that cleared on its own. 
-![Wheel-squeal](/assets/sqeal.png)
+![Wheel-squeal](/assets/1/sqeal.png)
 
 While it's challenging to provide a definite solution without a physical inspection, here are some potential suggestions:
 ## Table of contents
 ## Brake-related Issues:
 
 Brake Pads/Rotors Seating: If the noise occurred after installing new pads and rotors, it's possible that they needed some time to seat themselves. The noise stopping could be a positive sign, but if it returns, give it a bit more time or consider checking the installation.
-![after new break](/assets/after-new-breake.png)
+![after new break](/assets/1/after-new-breake.png)
 After installing new brake pads and rotors, it is essential to "bed" the brakes to optimize performance and prevent potential issues such as vibration, squealing, or uneven wear. Here are the general guidelines based on the information provided:
 
 1. Perform repeated stops from approximately 35 mph with moderate pressure, making 6–10 stops total[1][2].
@@ -76,7 +76,7 @@ Citations:
 ##  Wheel Bearing Issues:
 To check for wheel bearing issues, there are several signs to look out for. The typical sounds of worn-out wheel bearings are squealing and/or growling, which intensify as vehicle speed increases[2][3]. Another way to check for wheel bearing issues is to use a mechanic's stethoscope to listen for any differences in sound between the two wheels[4]. You can also check for play in the wheel by jacking up the car and gripping the tire at the 6 and 12 o'clock positions, then spinning the wheel to see if it wiggles[3]. Uneven tire wear and staining from bearing grease are also indicators of a bad wheel bearing[3]. If you notice any of these signs, it's best to visit an auto shop that offers wheel repair and replacement services[3].
 
-![Wheel-squeal](/assets/bearing.png)
+![Wheel-squeal](/assets/1/bearing.png)
 
 Citations:
 

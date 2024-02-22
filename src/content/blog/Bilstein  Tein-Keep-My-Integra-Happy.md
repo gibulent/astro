@@ -12,7 +12,7 @@ description: Can the Bilstein & Tein combo tame LA's rough roads without sacrifi
 
 Los Angeles roads are notorious for their uneven surfaces, potholes, and unpredictable dips. But you still crave the smooth, controlled handling of a canyon carve on the weekends. Can the Bilstein Sport and Tein H-Tech coilover combo deliver the best of both worlds for your Honda Integra?
 
-![LA Road](/assets/la-road.png)
+![LA Road](/assets/1/la-road.png)
 <!-- ## Table of contents -->
 
 For a comfortable daily driver with occasional road trips and canyon drives, the Bilstein Sport and Tein H-Tech combo appears to be a solid choice. Here's why:
